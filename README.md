@@ -21,9 +21,9 @@ cd url-shield
 
 ```bash
 # Anaconda Navigator - to create
-~$ conda create -n environment_name python=version anaconda
+~$ conda create -m environment_name python=version anaconda
 # to activate
-~$ source activate -- environment_name
+~$ source activate environment_name
 # to desactivate
 ~$ source deactivate
 
